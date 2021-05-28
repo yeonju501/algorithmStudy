@@ -13,8 +13,10 @@ public class stringtokenizer {
 		char a2[] = sb.toString().toCharArray();
 		System.out.print(a2);
 		String a3 = null;
-		a3 += "gkgk";
-		System.out.println(a3);
+		a3 = "kgkgk";
+		String[] array2 = a3.split("g");
+		System.out.print(Arrays.toString(array2));
+		
 	}
 
 }
