@@ -15,6 +15,7 @@ public class No10872 {
 			}
 		}
 		System.out.println(fac);
+		br.close();
 	}
 
 }

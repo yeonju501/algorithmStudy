@@ -1,5 +1,4 @@
 package algorithmStudy;
-import java.util.Scanner;
 import java.io.*;
 import java.util.StringTokenizer;
 
@@ -29,6 +28,7 @@ public class No10430 {
 		System.out.println( (A%C + B%C)%C );
 		System.out.println( (A*B)%C );
 		System.out.println( (A%C * B%C)%C );
+		br.close();
 
 	}
 }

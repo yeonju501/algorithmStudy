@@ -13,6 +13,7 @@ public class No2438 {
 			}
 			System.out.println("");
 		}
+	
 	}
 
 }

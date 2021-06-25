@@ -14,6 +14,7 @@ public class No2442 {
 			}
 			System.out.println("");
 		}
+		br.close();
 	}
 
 }

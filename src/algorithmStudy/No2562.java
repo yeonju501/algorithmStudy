@@ -21,6 +21,7 @@ public class No2562 {
 		}
 		System.out.println(max);
 		System.out.println(index);
+		br.close();
 		
 	}
 

@@ -13,6 +13,7 @@ public class No5598 {
 				result = (char) (str.charAt(i) - 3);
 			}
 			System.out.print(result); //여기서 출력해줘야 다음 글자가 추가가능
+			br.close();
 		}
 	}
 }

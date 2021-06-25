@@ -15,6 +15,7 @@ public class No1330 {
 		}else {
 			System.out.println("==");
 		}
+		br.close();
 		
 	}
 

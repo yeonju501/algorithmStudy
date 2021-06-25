@@ -23,6 +23,7 @@ public class No2444 {
 			}
 			System.out.println("");
 		}
+		br.close();
 	}
 
 }
